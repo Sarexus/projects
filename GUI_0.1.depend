@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1590337766 source:e:\my program\gui_0.1\main.cpp
+	<SFML/Graphics.hpp>
+	"GUI.h"
+
+1588940377 source:e:\my program\gui_0.1\label.cpp
+	"Label.h"
+	"Label.h"
+
+1589631622 e:\my program\gui_0.1\gui.h
+	"Widget.h"
+	"Label.h"
+	"Button.h"
+	"Conteiner.h"
+	"TextButton.h"
+	"TextBox.cpp"
+	"Widget.h"
+	"Label.h"
+	"Button.h"
+	"Conteiner.h"
+	"TextButton.h"
+	"TextBox.cpp"
+
+1588935133 e:\my program\gui_0.1\label.h
+	"Widget.h"
+	"Widget.h"
+
+1588592074 source:e:\my program\gui_0.1\button.cpp
+	"Button.h"
+	"Button.h"
+
+1588348079 e:\my program\gui_0.1\button.cpp
+	"Label.h"
+	"Label.h"
+
+1588528862 e:\my program\gui_0.1\button.h
+	"Label.h"
+	"Label.h"
+
+1589630821 e:\my program\gui_0.1\widget.h
+	<SFML/Graphics.hpp>
+	<SFML/Graphics.hpp>
+
+1590419134 source:e:\my program\gui_0.1\conteiner.cpp
+	"Conteiner.h"
+	<iostream>
+
+1588422482 source:e:\my program\gui_0.1\layout.cpp
+	"Widget.h"
+	<vector>
+	"Widget.h"
+	<vector>
+
+1588422482 e:\my program\gui_0.1\layout.cpp
+	"Widget.h"
+	<vector>
+	"Widget.h"
+	<vector>
+
+1588424925 e:\my program\gui_0.1\conteiner.cpp
+	"Widget.h"
+	"Widget.h"
+
+1589631039 e:\my program\gui_0.1\conteiner.h
+	"Widget.h"
+	<vector>
+	"Widget.h"
+	<vector>
+
+1589630821 source:e:\my program\gui_0.1\widget.cpp
+	"Widget.h"
+	"Widget.h"
+
+1589544629 e:\my program\gui_0.1\textbutton.cpp
+	"TextButton.h"
+	"TextButton.h"
+
+1590419197 source:e:\my program\gui_0.1\textbutton.cpp
+	"TextButton.h"
+
+1579479197 f:\загрузки\glfw-3.3.2\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1589469983 e:\my program\gui_0.1\memory.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+	<SFML/Graphics.hpp>
+	<vector>
+
+1589632635 e:\my program\gui_0.1\textbutton.h
+	<SFML/OpenGL.hpp>
+	"Widget.h"
+	<string>
+	<iostream>
+	<SFML/OpenGL.hpp>
+	"Widget.h"
+	<string>
+	<iostream>
+
+1591115030 source:e:\my program\gui_0.1\textbox.cpp
+	<SFML/Graphics.hpp>
+	<SFML/OpenGL.hpp>
+	"Widget.h"
+	<iostream>
+	<vector>
+
+1591117071 e:\my program\gui_0.1\textbox.cpp
+	<SFML/Graphics.hpp>
+	<SFML/OpenGL.hpp>
+	"Widget.h"
+	<iostream>
+	<vector>
+
+1590774286 source:e:\my program\gui_0.1\shapes.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1590774286 e:\my program\gui_0.1\shapes.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
